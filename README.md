@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi , I am Nishant Singh a 3rd-year engineering student and an aspiring Data Engineer, passionate about unlocking the power of data through clean pipelines, smart queries, and meaningful visualizations.<br>
-With hands-on experience in SQL, Python, Power BI, and Tableau, I enjoy building data-driven solutions that make complex insights easy to understand.<br><br>Currently exploring Databricks and big data frameworks, I’m focused on learning how to manage, process, and visualize large datasets efficiently. Whether it's crafting ETL workflows or designing dashboards, I love turning raw data into real impact.<br><br>🛠 Tech Stack & Tools:<br><br>Languages: Python, SQL<br><br>Visualization: Tableau, Power BI<br><br>🎯 What I'm Working On:<br>- Personal projects using real-world datasets<br>- Deepening my understanding of data engineering workflows<br>
+With hands-on experience in SQL, Python, Power BI, and Tableau, I enjoy building data-driven solutions that make complex insights easy to understand.<br><br>Currently exploring Databricks and big data frameworks, I’m focused on learning how to manage, process, and visualize large datasets efficiently. Whether it's crafting ETL workflows or designing dashboards, I love turning raw data into real impact.<br>
 
 
 ## 🌐 Socials:
